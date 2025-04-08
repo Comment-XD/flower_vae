@@ -1,1 +1,5 @@
-# flower_vae
+# Flower VAE
+***
+
+# Table of Contents
+***
